@@ -106,11 +106,7 @@ Feedback, suggestions, and feature requests are always welcome.
 
 ## 📫 Contact
 
-Discord: Coming Soon
-
-Documentation: Coming Soon
-
-Store: Coming Soon
+Discord: https://discord.gg/jericho-script
 
 ---
 
