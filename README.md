@@ -1,7 +1,7 @@
 # 👋 Welcome to Jericho Script
 
 <p align="center">
-  <img src="./banner.png" alt="Jericho Script Banner">
+  <img src="./jericho-banner.png" alt="Jericho Script Banner">
 </p>
 
 <p align="center">
