@@ -54,7 +54,8 @@ Tailored solutions for communities requiring unique functionality.
 
 | Project          | Description                |
 | ---------------- | -------------------------- |
-| JRC-JCoord       | Advanced Coordinate System |
+| Jericho-JCoord       | Advanced Coordinate System |
+| Jericho-VehicleControl       | Advanced Vehicle Control System |
 | More Coming Soon | Stay Tuned                 |
 
 ---
